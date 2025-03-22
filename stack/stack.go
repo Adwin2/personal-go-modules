@@ -1,3 +1,9 @@
+/*
+ * Code Copyright (c) 2025-03-22 17:36:35 CST
+ * Author: Ryan Mendez
+ * Licensed under MIT License
+ */
+
 package stack
 
 // 定义一个泛型的Stack结构体
