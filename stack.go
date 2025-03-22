@@ -1,4 +1,4 @@
-package main
+package stack
 
 // 定义一个泛型的Stack结构体
 type Stack[T any] struct {
